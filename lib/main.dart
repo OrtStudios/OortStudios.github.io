@@ -2,6 +2,8 @@
 
 import 'package:flutter/material.dart';
 
+import 'package:oort_studios_website/colors.dart';
+
 void main() => runApp(
     MaterialApp(
         home: Scaffold(
@@ -12,7 +14,7 @@ void main() => runApp(
                     style: TextStyle(
                         fontSize: 150,
                         fontWeight: FontWeight.bold,
-                        color: Colors.amber[400], 
+                        color: AMBER400
                     )
                 )
             )
