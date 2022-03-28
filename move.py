@@ -27,5 +27,3 @@ copy_tree(copy_path, copy_dest)
 
 #finished processing
 print("Finished!")
-input("Press enter to exit...")
-exit()
