@@ -34,8 +34,10 @@
         "LIGHTGREENACCENT",
         "LIMEACCENT",
         "ORANGEACCENT",
+        "pdark",
         "PURPLEACCENT",
         "REDACCENT",
+        "RGBO",
         "TEALACCENT",
         "YELLOWACCENT"
     ]
